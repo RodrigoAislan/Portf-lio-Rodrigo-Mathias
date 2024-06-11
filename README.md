@@ -1,6 +1,5 @@
 
 
-
 ##                         Projeto de Análise de Vendas base de dados AdventureWorksDW2019 📊
 
 ### Descrição do projeto: 
@@ -32,7 +31,7 @@ O objetivo deste projeto é criar um painel de controle interativo no Power BI q
 
 
 ### Sobre o Banco de Dados
-O banco de dados  AdventureWorksDW2019, é um banco de dados de data warehouse de amostra fornecido pela empresa Microsoft. Ele contém dados de uma empresa fictícia de fabricação e vendas de bicicletas.
+O banco de dados  [AdventureWorksDW2019](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms), é um banco de dados de data warehouse de amostra fornecido pela empresa Microsoft. Ele contém dados de uma empresa fictícia de fabricação e vendas de bicicletas.
 
 ### 🛠️ Ferramentas:
 Para a realização deste projeto, as seguintes ferramentas foram utilizadas:
@@ -42,4 +41,10 @@ Para a realização deste projeto, as seguintes ferramentas foram utilizadas:
 •  Power Query e linguagem M, para criação de tabela auxiliar de datas.
 
 •  Power BI, para vizualização de dados.
+
+
+### Dashboard:
+
+
+![Dashboard](https://github.com/RodrigoAislan/Projeto_analise_de_Vendas_AdventureWorks/assets/172406590/bc40f4c8-8f92-4865-a0ce-ebb7afafabfc)
 
