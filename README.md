@@ -10,7 +10,26 @@ Neste projeto, foi utiliza o banco de dados AdventureWorksDW2019 para realizar d
 
 ### 🎯 Objetivo do projeto:
 
-O objetivo deste projeto é criar um painel de controle interativo no Power BI que permita analisar as vendas da empresa AdventureWorks. As análises incluem métricas de vendas totais, distribuição de vendas por categoria de produto, vendas por país, comportamento de compra dos clientes, entre outros.
+O objetivo deste projeto é criar um painel de controle interativo no Power BI que permita analisar as vendas da empresa AdventureWorks. As análises incluem as seguintes métricas:
+
+•  Vendas Totais
+
+•  Total de produtos vendidos;
+
+•  Distribuição de vendas por gênero de clientes;
+
+•  Análise de popularidade de produtos;
+
+•  Clientes que mais fizeram compras;
+
+•  Consultas de Vendas por Ano;
+
+•  Distribuição de Vendas por País;
+
+•  Distribuição das vendas por faixas de idade;
+
+•  Comparação de vendas entre os anos de 2013 e 2012;
+
 
 ### Sobre o Banco de Dados
 O banco de dados  AdventureWorksDW2019, é um banco de dados de data warehouse de amostra fornecido pela empresa Microsoft. Ele contém dados de uma empresa fictícia de fabricação e vendas de bicicletas.
