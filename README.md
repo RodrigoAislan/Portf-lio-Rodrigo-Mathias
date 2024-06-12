@@ -2,6 +2,8 @@
 
 ##                         Projeto de Análise de Vendas base de dados AdventureWorksDW2019 📊
 
+## Você pode ler os detalhes do projeto no [medium.com](https://medium.com/@rodrigoaislaan/projeto-an%C3%A1lise-de-vendas-adventureworks-e9ae9f2d9001)
+
 ### 📝 Visão geral do projeto: 
 
   Neste projeto, foi utiliza o banco de dados AdventureWorksDW2019 para realizar diversas análises de vendas, com o objetivo de criar um painel interativo no Power BI. O repositório contém os scripts SQL utilizados para extrair e transformar os dados, bem como o arquivo do projeto do Power BI que apresenta as visualizações e insights gerados a partir dos dados. Abaixo está uma descrição detalhada do projeto e das análises realizadas.
